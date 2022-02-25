@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Alls well that ends well",
+      "author": {
+        "firstName": "William",
+        "lastName": "Shakespeare"
+      },
+      "path": "alls-well-that-ends-well_TXT_FolgerShakespeare.txt"
+    },
+    {
+      "title": "Hamlet",
+      "author": {
+        "firstName": "William",
+        "lastName": "Shakespeare"
+      },
+      "path": "hamlet_TXT_FolgerShakespeare.txt"
+    }
+]
