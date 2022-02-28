@@ -1,6 +1,7 @@
+import lunr from "lunr";
 
 export interface ISearchResult {
-    matched: any
+    matched: lunr.Index.Result[]
 }
 
 

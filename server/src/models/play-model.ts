@@ -11,3 +11,9 @@ export interface IPlay {
 }
 
 export type IPlays = Array<IPlay>
+
+export interface IPlayList {
+    isLoaded: boolean,
+    isFilled: boolean,
+    list: IPlays
+}
